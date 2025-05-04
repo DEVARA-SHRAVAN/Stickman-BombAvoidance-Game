@@ -1,0 +1,68 @@
+# 💣 Stickman Bomb Avoidance Game
+
+A simple 2D stickman game developed in C using graphics.h where the player must avoid falling bombs. Features include score tracking, game restart functionality, and a history of previous scores.
+
+---
+
+## 🎮 Gameplay
+
+- You control a **stickman** who must **avoid falling bombs**.
+- As bombs drop from random positions at the top, you must move left or right to avoid them.
+- The game gets faster over time, increasing the difficulty.
+
+---
+
+## 🕹️ Controls
+
+- **Left Arrow (←)** – Move stickman to the left  
+- **Right Arrow (→)** – Move stickman to the right  
+- **R** – Restart the game  
+- **ESC** – Quit the game  
+
+---
+
+## 🧠 Features
+
+- Randomized bomb positions  
+- Score tracking  
+- Restart game functionality (`R` key)  
+- Game over screen  
+- Previous score history displayed
+
+---
+
+## 📸 Screenshots
+
+> *(Include a screenshot if available)*  
+> `Insert a screenshot of gameplay here`
+
+---
+
+## 🔧 Requirements
+
+- C Compiler (Turbo C++ or GCC with WinBGIm graphics)  
+- `graphics.h` library
+
+---
+
+## 🚀 How to Run
+
+1. Compile `main.c` using a C compiler that supports `graphics.h`.
+2. Run the executable.
+3. Use arrow keys to play!
+
+---
+
+## 📁 Files Included
+
+- `main.c` – The main game logic in C
+- `README.md` – This file
+- `.gitignore` – Ignores compiled binaries (optional)
+
+---
+
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
